@@ -1,5 +1,5 @@
 # 👤 About Me:
-Specialized Honours in Financial Economics (Class of '23) <br><br>Hoping to complete a Master of Finance degree in 2024.<br><br>CFA level II candidate<br><br>Self-taught programmer (NEWBIE) - Python and C# <br><br>Some experience with STATA and MATLAB<br><br>Currently working on a finance project using Machine Learning & Deep Neural Network applications.<br><br>I am also working on a personal project related to financial derivatives, just for fun/help fellow students.<br><br>Looking to collaborate on any cool projects related to financial markets & products, please feel free to reach out!<br><br><br><br>
+Specialized Honours in Financial Economics (Class of '23) <br><br>Hoping to complete a Master of Finance degree in 2024.<br><br>CFA level II candidate<br><br>Self-taught programmer (NEWBIE) - <br><br>Some experience with STATA<br><br>Currently working on a finance project using Machine Learning & Deep Neural Network applications.<br><br>Looking to collaborate on any cool projects related to financial markets & products, please feel free to reach out!<br><br><br><br>
 
 
 ## 🌐 Socials:
