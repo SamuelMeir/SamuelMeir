@@ -1,5 +1,5 @@
 # 👤 About Me:
-Specialized Honours in Financial Economics (Class of '23) <br><br>Pursuing a Master of Finance degree in 2024.<br><br>CFA level II candidate<br><br>Self-taught programmer - <br><br>Some experience with STATA<br><br>Check out my first website demonstrating my first python proejct: [samuelmeir.pythonanywhere.com/](https://samuelmeir.pythonanywhere.com/))<br><br>
+Specialized Honours in Financial Economics (Class of '23) <br><br>Pursuing a Master of Finance degree in 2024.<br><br>CFA level II candidate<br><br>Self-taught programmer - <br><br>Some experience with STATA<br><br>My first website demonstrating my first python proejct (May take 5-10sec to load): [samuelmeir.pythonanywhere.com/](https://samuelmeir.pythonanywhere.com/)<br><br>
 Looking to collaborate on any cool projects related to financial markets & products, please feel free to reach out!<br><br><br><br>
 
 
